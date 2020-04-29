@@ -1,0 +1,28 @@
+
+
+	EXPIRE
+
+	Expire é um código em JavaScript de comandos básicos que permite registrar
+	frases, reflexões, cantorias e movimentos respiratórios em formas geométricas
+	abstratas. 
+	
+
+
+	Como funciona:
+
+	A partir da biblioteca Minim, o input de audio é usado para desenhar na tela
+	de duas formas: automaticamente e com o clique do mouse. Cada tipo de interação gera
+	tipos específicos de objetos.
+
+
+	Próximos passos:
+
+	1. parar/retomar o loop apertando a barra de espaço;
+
+	2. salvar pdf com boa definição apertando enter;
+
+	
+
+3. Gerar, a cada vez que o sketch for aberto, uma paleta de cores diferente.
+
+
