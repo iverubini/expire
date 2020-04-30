@@ -16,8 +16,6 @@ Expire is a Processing sketch that uses Minim library to create drawings control
 	frases, reflexões, cantorias e movimentos respiratórios em formas geométricas
 	abstratas. 
 	
-
-
 	Como funciona:
 
 	A partir da biblioteca Minim, o input de audio é usado para desenhar na tela
@@ -27,7 +25,7 @@ Expire is a Processing sketch that uses Minim library to create drawings control
 	Caso queira salvar o desenho em pdf, pressione a tecla TAB. Será gerado um arquivo
 	que descreverá o ano, mês, dia, hora, minuto e segundo. Detalhe: na verdade serão gerados
 	DOIS arquivos a cada vez que a tecla TAB for pressionada. Elimine o de 0kb e guarde o que
-	terá valores maiores. Isso acontece por causa da dinâmica
+	terá valores maiores. 
 	
 
 	Próximo passo:
